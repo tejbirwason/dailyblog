@@ -13,18 +13,6 @@ sections:
   new_doc_ext: md
   templates:
   - post
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-  exclude: index.md
-  new_doc_ext: md
-  templates:
-  - page
-- type: document
-  path: config.yml
-  label: Configuration
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
