@@ -2,7 +2,7 @@
 date: 2020-10-22T03:02:17Z
 draft: false
 title: Focus
-image: ''
+image: "/images/0.jpeg"
 tags: []
 
 ---
