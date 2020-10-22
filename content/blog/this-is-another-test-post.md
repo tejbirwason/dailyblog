@@ -1,6 +1,6 @@
 ---
 date: 2020-10-22T03:02:17Z
-draft: true
+draft: false
 title: This is another test post
 image: ''
 tags: []
